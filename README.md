@@ -2,8 +2,9 @@
 <div align="center">
   
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hello" width="300"/>
+  <img src="https://pixabay.com/gifs/search/hello/image/4675800/" alt="Hello GIF" width="300"/>
 </div>
+
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="work station" width="40%"/><br>
