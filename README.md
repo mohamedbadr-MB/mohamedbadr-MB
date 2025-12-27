@@ -1,9 +1,11 @@
 
 <div align="center">
-
+  
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Coding Animation" width="300"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Hello" width="300"/>
 </div>
+
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="work station" width="40%"/><br>
 
 <details>
