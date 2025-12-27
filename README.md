@@ -43,5 +43,5 @@
 
 ### 📬 Contact
 
-- Telegram: **[YOUR_HANDLE](https://t.me/YOUR_TELEGRAM)**  
+- Telegram: **[MY_TELEGRAM](https://web.telegram.org/a/#6861271856)**  
 
