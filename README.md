@@ -8,6 +8,8 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="work station" width="40%"/><br>
 
+# Iam mohamed 
+
 <details>
 <summary><strong>Currently exploring & learning:</strong></summary>
 <p>
@@ -16,8 +18,6 @@
 - Qt / QML Application Development
 </p>
 </details>
-
-# Iam mohamed
 
 </div>
 
