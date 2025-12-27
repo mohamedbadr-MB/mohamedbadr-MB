@@ -2,7 +2,7 @@
 <div align="center">
   
 <div align="center">
-  <img src="https://pixabay.com/gifs/search/hello/image/4675800/" alt="Hello GIF" width="300"/>
+  # 👋 Hello Coders
 </div>
 
 
