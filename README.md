@@ -13,8 +13,6 @@
 </p>
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange)
-[![Telegram](https://img.shields.io/badge/Telegram-0078D4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 
 </div>
 
